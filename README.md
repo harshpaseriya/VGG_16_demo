@@ -1,2 +1,1 @@
-# General_Tempalete
-Necessary Files and Folders For Projects
+# /f/VGG_16_demo
