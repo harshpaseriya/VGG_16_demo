@@ -18,5 +18,10 @@ git add .
 git commit -m "first commit"
 echo [$(date)]: "END"
 
+# exemple-
+# 'harsh' > exemple.txt , it will create file and worte harsh
+# 'paseriya' > exemple.txt ,it will update by harsh to paseriya
+# 'paseriya' >> exemple.txt , it will append in next line
+
 # to remove everything -
 # rm -rf env/ .gitignore conda.yaml README.md .git/
